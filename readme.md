@@ -20,9 +20,13 @@ The only input required is the initial pattern which serves as the _seed_ for th
 2. Run the file using `python game_of_life.py`
 
 There are a few optional arguments you may pass while running the file:
+
 `--h HEIGHT` - The height of the board.
+
 `--w WIDTH` - The width of the board.
+
 `--rounds ROUNDS` - The number of rounds/generations.
+
 `--file FILE`- Path to an input file for the initial state. Giving an input file overrides the given height and width. 
 
 ## Game in Action
